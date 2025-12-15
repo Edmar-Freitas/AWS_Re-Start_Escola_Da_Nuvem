@@ -19,7 +19,7 @@ Este repositório tem como propósito:
 
 ## 🧩 Conteúdos Incluídos
 
-Os materiais estão organizados por módulos e temas, incluindo:
+Os materiais estão organizados por módulos e temas, onde estão incluídos:
 
 - **Fundamentos de Cloud Computing**
 - **Redes, VPC e Sub-redes**
